@@ -25,7 +25,8 @@ Approximately 4h00 were required to train and test the model, on a standard lapt
 
 With untuned hyperparameters we obtain a final precision on the validation set of approximately 88%. 
 
-
+<img src="https://github.com/edhhan/fcc-from-stratch/blob/main/results/acc_home.png" width="500" height="300">
+<img src="https://github.com/edhhan/fcc-from-stratch/blob/main/results/loss_home.png" width="500" height="300">
 
 
 
