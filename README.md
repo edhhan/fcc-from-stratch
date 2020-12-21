@@ -1,5 +1,5 @@
 # fcc-from-stratch
-A learning project where we attempt to build a Fully-Connected neural network from stratch. The purpose here is clearly not to provide a performant model, but rather to learn the inner mecanisms (backprog, forward pass, etc.) of high-level libraries that abstracts those from the user.
+A learning project where we attempt to build a Fully-Connected neural network from stratch. The purpose here is clearly not to provide a performant model, but rather to learn the inner mecanisms (backprop, forward pass, etc.) of high-level libraries that abstracts those from the user.
 
 # Model
 A Fully-Connected neural network with a variable number of hidden layers and variable number of nodes per layer. The model is applied on the well known [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) dataset. 
